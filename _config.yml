@@ -34,8 +34,8 @@ navigation:
     url: /writing
   - text: CV
     url: /cv
-  - text: Portfolio
-    url: /portfolio
+  - text: Projects
+    url: /projects
 
 # The shortname for your Disqus site to enable comments.
 disqus: catherine-o-brien

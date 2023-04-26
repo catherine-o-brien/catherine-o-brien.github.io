@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-description: Catherine O'Brien's Portfolio
+title: Projects
+description: Catherine O'Brien's Projects
 layout: default
 ---
 
@@ -18,7 +18,7 @@ layout: default
 {% for post in site.posts %}
 <div class="col-md-6 col-xs-12">
     {% if post.feature_image and post.feature_image != "" %}
-    <a class="portfolio-post" href="{{post.url}}">
+    <a class="project-post" href="{{post.url}}">
       <figure class="mini-thumbnail">
         <img src="{{ post.feature_image | relative_url }}" alt="{{ post.title }}">
       </figure><!-- .post-thumbnail -->
