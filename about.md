@@ -5,4 +5,4 @@ description: About Catherine O'Brien
 feature_image: images/about.jpg
 ---
 
-**Catherine O'Brien** is an artist, writer, and engineer living in New York City. She has a BA from Barnard College in Computer Science, and her interests span everything from accessible technologies to poetry to sign language linguistics. Currently, she studies the development of Nicaraguan Sign Language at the Barnard Language Acquisition and Development Lab. She was named first runner-up for the Columbia Quarto Chapbook Competition in 2022 and has been published in Barnard *Echoes Magazine*. You can probably find her in a bookstore buying things she doesn't have time to read or at Coney Island swimming before it's seasonally appropriate. 
+**Catherine O'Brien** lives in New York City and is interested in everything. She is an artist, writer, and engineer, and her poetry has been recognized by the 2022 Quarto Chapbook Contest, Echoes Magazine, and others. She holds a BA in Computer Science from Barnard College. You can probably find her in a bookstore reading the first three pages of everything or at Coney Island swimming before it's seasonally appropriate. 

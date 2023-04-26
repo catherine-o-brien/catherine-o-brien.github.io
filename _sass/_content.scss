@@ -154,6 +154,11 @@
   text-decoration: none;
   color: _palette(primary);
   font-family: _palette(secondary);
+  font-weight: bold;
+  &:hover {
+    color: _palette(accent);
+    text-decoration: none;
+  }
 }
 
 .archive-top-link {
